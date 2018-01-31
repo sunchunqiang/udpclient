@@ -1,0 +1,4 @@
+﻿  udpclient.cpp
+c:\users\csun\source\repos\udpclient\udpclient\udpclient.cpp(217): warning C4244: 'initializing': conversion from '__int64' to 'long', possible loss of data
+c:\users\csun\source\repos\udpclient\udpclient\udpclient.cpp(349): warning C4244: '=': conversion from '__int64' to 'long', possible loss of data
+  udpclient.vcxproj -> C:\Users\csun\Source\Repos\udpclient\Debug\udpclient.exe
